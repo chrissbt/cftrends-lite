@@ -2,9 +2,7 @@
 
 CF Trends Lite is a simple app for nicely displaying your ClickFunnels affiliate data.  It takes as input, the CSV file from your ClickFunnels affiliate area.
 
-![LM Trends Challenge Completion](/images/lmtrends-challenge-completion.jpg)
-
-![LM Trends](/images/lmtrends-tags-screenshot.jpg)
+![CF Trends Lite](/images/cftrends-lite-screenshot.png)
 
 ## Usage
 
